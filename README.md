@@ -5,7 +5,7 @@ A simple and clean **to-do list** web application to help you organize your dail
 ---
 
 ## 🌐 Live Demo
-![**View Live Demo**](https://falconishere.github.io/to-do-list/)
+[**View Live Demo**](https://falconishere.github.io/to-do-list/)
 
 ---
 
