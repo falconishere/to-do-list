@@ -5,12 +5,12 @@ A simple and clean **to-do list** web application to help you organize your dail
 ---
 
 ## 🌐 Live Demo
-<!-- [**View Live Demo**](YOUR_LIVE_DEMO_URL) -->
+<![**View Live Demo**](YOUR_LIVE_DEMO_URL)
 
 ---
 
 ## 📸 Demo
-<!-- ![To-Do List Screenshot](images/demo.gif) -->
+<![To-Do List Screenshot](/demo1.gif)
 
 ---
 
