@@ -51,5 +51,6 @@ to-do-list/
 ---
 
 ## 👥 Contributors
-- [falconishere](https://github.com/falconishere)
-<!-- Add more contributors as needed -->
+- [Abhishan Francis](https://github.com/falconishere)
+- [Abel Alexader](https://github.com/abelalexander18)
+- [Misheal Julian]()
