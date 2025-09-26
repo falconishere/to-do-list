@@ -15,7 +15,7 @@ A simple and clean **to-do list** web application to help you organize your dail
 ---
 ## Project Report
 
-[Click Here to View] (https://github.com/falconishere/to-do-list/blob/main/todo_list%20project.pdf)
+[Click To View the report](https://github.com/falconishere/to-do-list/blob/main/todo_list%20project.pdf)
 
 ---
 
