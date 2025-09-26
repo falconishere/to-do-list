@@ -13,6 +13,12 @@ A simple and clean **to-do list** web application to help you organize your dail
 ![To-Do List Screenshot](/demo1.gif)
 
 ---
+## Project Report
+
+[Click Here to View] (https://github.com/falconishere/to-do-list/blob/main/todo_list%20project.pdf)
+
+---
+
 
 ## 🚀 Features
 - **Minimal and Clean UI**
